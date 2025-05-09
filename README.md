@@ -1,4 +1,4 @@
 # Git-Demo
 This is my first Demo project
 <br>
-Author- Adnan khan
+Author- Adnan (Apna-college)
